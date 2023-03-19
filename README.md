@@ -1,0 +1,2 @@
+# CoreMLJankenTest
+CoreMLを用いたジャンケンのテストアプリ
